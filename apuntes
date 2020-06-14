@@ -7,3 +7,4 @@ git commit -m "first commit"
 git remote add origin https://github.com/NOMBRE_USUARIO/NOMBRE_PROYECTO.git
 
 git push -f origin master
+revisar enlace https://github.com/volta2016/resumen-estudios-git/blob/master/resumen%20estudio.txt
