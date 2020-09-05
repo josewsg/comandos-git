@@ -22,7 +22,7 @@ git checkout <id commit>
 ## para borrar el commit y el codigo
 - git reset hard
 ## Para subir a github
-- git add remote origin url del repsoitorio
+- git remote add origin url del repsoitorio
 ## Para probar el repositorio
 - git remote -v
 ## Para eliminar repositorio
