@@ -26,7 +26,7 @@ git checkout <id commit>
 ## Para probar el repositorio
 - git remote -v
 ## Para eliminar repositorio
-- git remote remove
+- git remote remove origin
 ## cambiar el repositorio
 - git remote set-url origin git@github.com:User/UserRepo.git
 ## para subir codigo al repositorio
