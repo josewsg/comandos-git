@@ -35,6 +35,6 @@ git checkout <id commit>
 ## para FORZAR subir codigo al repositorio
 - git push --force origin master
 
-## SUBIR MOFIFICACIONES DEL PROYECTO
+## SUBIR MODIFICACIONES DEL PROYECTO
 - git commit -m 'texto'
 - git push origin master 
