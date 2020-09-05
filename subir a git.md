@@ -32,3 +32,5 @@ git checkout <id commit>
 ## para subir codigo al repositorio
 - git fetch origin master
 - git push origin master 
+## para FORZAR subir codigo al repositorio
+-- git push --force origin master
