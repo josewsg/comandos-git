@@ -30,4 +30,5 @@ git checkout <id commit>
 ## cambiar el repositorio
 - git remote set-url origin git@github.com:User/UserRepo.git
 ## para subir codigo al repositorio
+- git fetch origin master
 - git push origin master 
