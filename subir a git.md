@@ -18,7 +18,8 @@ git checkout <id commit>
 
 ## para borrar el solo commit 
 - git reset soft 
-
+## para cambiar de usuario el proyecto
+ - git remote add origin  https://USERNAME:PASSWORD@github.com/username/reponame.git
 ## para borrar el commit y el codigo
 - git reset hard
 ## Para subir a github
